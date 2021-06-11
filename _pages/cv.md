@@ -11,49 +11,36 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* BSc. Mathematics  –  University of Exeter (2014 - 2019) 
+  * Modules include: Analysis, Differential Equations, Programming for Mathematics, Number Theory, Cryptography and Linear Algebra. 
+* Data Scientist Bootcamp – Learning People Global (January - March 2021)
+   * I was fortunate enough to receive a scholarship for this Data Science programme which I have been awarded in March 2021. This exciting course has helped me apply my knowledge of mathematics to complex real world problems using data-driven solutions. 
 
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+Skills & competencies
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Numeracy - proficient in pure maths and statistics 
+* MS Office –  proficiency in Excel, Word and PowerPoint and web-based programmes.
+* SQL –  used for querying and managing relational databases.
+* Python –  used for implementing data analysis as well as various raspberry pi projects.
+* R –  used statistical methods in R for various projects including predictive analytics.
+* Linux –  used for personal use and used Scientific Linux for various academic projects.
+* MATLAB –  used for various assignments and personal projects such as neural networks.
+* CompTIA A+, ITF+, Network+ – studying in my own time as I am due to sit exams in summer.
+* Languages –  fluent in English and Portuguese with proficiency in Italian. 
+  
+Employment History and Volunteering 
+======
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Cryptography - University of Exeter
+   * At the University of Exeter I was lucky enough to work with Dr Marasingha on cryptologic problems. Not only is cryptology something I have always found deeply interesting, but after learning how its key principles are used in modern technology I understand how pivotal it is to the future of information technology. In this project I programmed two collision algorithms for solving the discrete logarithm problem: Baby-Step Giant-Step and Pohlig-Hellman to crack the Diffie-Hellman. 
+   * Supervisor: Gihan Marasingha.
+
+* Mathematics History and Culture - University of Exeter
+  * I enhanced my skills crafting concisely written and thoroughly researched essays through academic assignments, and further developed these abilities by preparing and delivering a comprehensive presentation on related material to undergraduate mathematicians. 
+  * Supervisor: Peter Ashwin.
+
+* Exploring, Comparing and Developing Effective Methods for Teaching Mathematical Proofs - University of Exeter
+   * In this project I used critical path analysis to identify critical activities as well as to help track our progress through the timeline of the project. Moreover, I designed a 45-minute workshop for young maths enthusiasts instructing them how to build their own mathematical proofs from scratch. I thoroughly enjoyed the level of control I had in this project and that I was given freedom to innovate and implement my own ideas. Evidence from my workshops were analysed in R and collected in a guide for educators and learners where we highlighted the methods which were most effective in increasing students' long-term understanding of proofs and ability to create their own mathematical proofs.
+   * Supervisor: Barrie Cooper.
+
