@@ -6,6 +6,7 @@ author_profile: true
 redirect_from:
   - /academic
 ---
+{% include base_path %}
 
 Research Projects and Academic Work
 =====
