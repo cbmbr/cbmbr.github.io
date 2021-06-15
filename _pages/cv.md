@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 {% include base_path %}
-I am a creative problem solver with great attention to detail. As a team player who is also incredibly self-motivated, I am always looking to collaborate with and learn from my colleagues. I am currently seeking a professional job in digital security where I can build upon my analytical skill set. 
+I am a creative problem solver with great attention to detail. As a team player who is also incredibly self-motivated, I am always looking to collaborate with and learn from my colleagues. I am currently seeking a professional job in the technology sector where I can build upon my analytical skill set. 
 
 <br>
 
