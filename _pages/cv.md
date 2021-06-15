@@ -23,7 +23,7 @@ Education
 
 Skills & competencies
 ======
-* Numeracy - proficient in pure maths and statistics 
+* Numeracy - proficient in pure maths and statistics.
 * MS Office –  proficiency in Excel, Word and PowerPoint and web-based programmes.
 * SQL –  used for querying and managing relational databases.
 * Python –  used for implementing data analysis as well as various raspberry pi projects.
@@ -35,8 +35,11 @@ Skills & competencies
   
 <br>
 
-Employment History and Volunteering 
+Employment and Volunteering History
 =====
+* __Census Officer – Office for National Statistics (March 2021 – April 2021)__
+  * I had the pleasure to work as an ambassador for the Census 2020 operation. Through this role I exercised my communication skills with members of the public by explaining the purpose of the census, how the data collected is used and analysed as well as how the government uses this anonymised data to make better informed decisions at a regional and national level. 
+
 * __Content Editor – Stairway Learning (2019 - 2020)__
   * As a freelance Content Editor, I set my focus on creating engaging interactive A-Level Maths lessons that introduce complex topics by presenting these maths problems as puzzle games: challenging but fun! I excelled at breaking down various abstract ideas into smaller chunks and make numerous notoriously hard topics more accessible to young people. In addition, freelancing strengthened my time management and strategic planning skills.
 
