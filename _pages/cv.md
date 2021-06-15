@@ -36,17 +36,12 @@ Skills & competencies
 <br>
 
 Employment History and Volunteering 
-======
+=====
+* __Content Editor – Stairway Learning (2019 - 2020)__
+  * As a freelance Content Editor, I set my focus on creating engaging interactive A-Level Maths lessons that introduce complex topics by presenting these maths problems as puzzle games: challenging but fun! I excelled at breaking down various abstract ideas into smaller chunks and make numerous notoriously hard topics more accessible to young people. In addition, freelancing strengthened my time management and strategic planning skills.
 
-* __Cryptography - University of Exeter__
-   * At the University of Exeter I was lucky enough to work with Dr Marasingha on cryptologic problems. Not only is cryptology something I have always found deeply interesting, but after learning how its key principles are used in modern technology I understand how pivotal it is to the future of information technology. In this project I programmed two collision algorithms for solving the discrete logarithm problem: Baby-Step Giant-Step and Pohlig-Hellman to crack the Diffie-Hellman.
-<br> Supervisor: Gihan Marasingha. 
+* __STEM Tuition and Outreach (2016 to Present)__
+  * Through Maths and Physics tutoring and numerous STEM outreach events, I have become extremely adept at communicating with enthusiasm and clarity, allowing me to connect with and inspire people from all walks of life. Moreover, I maintained a network of clients over the years that reflects my professional customer service and sought-after interpersonal skills. I have high standards for myself and I always try to exceed customer's expectations by going above and beyond. My positive attitude and flexible approach translates into extremely positive feedback, a high rate of customer retention and word-to-mouth recommendations.  
 
-* __Mathematics History and Culture - University of Exeter__
-  * I enhanced my skills crafting concisely written and thoroughly researched essays through academic assignments, and further developed these abilities by preparing and delivering a comprehensive presentation on related material to undergraduate mathematicians. 
- <br> Supervisor: Peter Ashwin. 
-
-* __Exploring, Comparing and Developing Effective Methods for Teaching Mathematical Proofs - University of Exeter__
-   * In this project I used critical path analysis to identify critical activities as well as to help track our progress through the timeline of the project. Moreover, I designed a 45-minute workshop for young maths enthusiasts instructing them how to build their own mathematical proofs from scratch. I thoroughly enjoyed the level of control I had in this project and that I was given freedom to innovate and implement my own ideas. Evidence from my workshops were analysed in R and collected in a guide for educators and learners where we highlighted the methods which were most effective in increasing students' long-term understanding of proofs and ability to create their own mathematical proofs.
-<br> Supervisor: Barrie Cooper. 
-
+* __Marie Curie Charity Shop (2015 - 2017)__
+  * I volunteered for two years at a local Marie Curie Cancer Care shop. Most of the customers who patronised this charity shop were regulars who not only enjoyed our high-quality affordable products but also valued the attention to detail of each and every volunteer like me who would take the time to understand what each customer's needs were. Our service reached beyond selling the product, that is, our area of concern also extended into how the customer felt leaving the shop: listened to, cared for and invigorated.
