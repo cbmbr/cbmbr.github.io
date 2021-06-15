@@ -15,7 +15,7 @@ I am a creative problem solver with great attention to detail. As a team player 
 Education
 ======
 * __BSc. Mathematics  –  University of Exeter (2014 - 2019)__
-  * Modules include: Analysis, Differential Equations, Programming for Mathematics, Number Theory, Cryptography and Linear Algebra. 
+  * Modules include: Analysis, Vectors and Matrices, Dynamics, Differential Equations, Programming for Mathematics, Linear Algebra, Number Theory and Cryptography. 
 * __Data Scientist Bootcamp – Learning People Global (January - March 2021)__
    * I was fortunate enough to receive a scholarship for this Data Science programme which I have been awarded in March 2021. This exciting course has helped me apply my knowledge of mathematics to complex real world problems using data-driven solutions. 
 
